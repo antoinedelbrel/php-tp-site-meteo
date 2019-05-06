@@ -7,6 +7,7 @@
     <title>meteo paris</title>
 </head>
 <body>
+    <a href="index.php"><h2>Accueil</h2></a>
     <h1>Meteo a Paris</h1>
     <?php
     for($i=0; $i<5; $i++){
